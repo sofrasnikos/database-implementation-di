@@ -2,14 +2,8 @@
 
 This repository contains the assignments for the course Database Implementation of DIT-NKUA.
 
-### Project 1
+__Project 1__ consists of a set of functions which manipulate Heap Files.
 
-This project consists of a set of functions which manipulate Heap Files.
+__Project 2__ is an implementation of a DBMS index based on B+ Trees.
 
-### Project 2
-
-This project is an implementation of a DBMS index based on B+ Trees.
-
-### Project 3
-
-This project is an implementation of a column store DBMS.
+__Project 4__ is an implementation of a column store DBMS.
