@@ -1,6 +1,6 @@
 # Database Implementation
 
-Copyright (C) 2018 Vangelis Tsiatouras & Nick Sofras
+Copyright (C) 2016 Vangelis Tsiatouras & Nick Sofras
 
 ## About
 
