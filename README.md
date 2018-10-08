@@ -1,5 +1,9 @@
 # Database Implementation
 
+Copyright (C) 2018 Vangelis Tsiatouras & Nick Sofras
+
+## About
+
 This repository contains the assignments for the course Database Implementation of DIT-NKUA.
 
 __Project 1__ consists of a set of functions which manipulate Heap Files.
